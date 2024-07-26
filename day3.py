@@ -17,6 +17,7 @@ else:
     print("It's odd")
 """
 #if else conditions
+"""
 a = int(input("Enter the number : "))
 b = int(input("Enter the number : "))
 c = int(input("Enter the number : "))
@@ -26,3 +27,4 @@ elif( b>=c) :
     print("B is the grater number")
 else:
     print("C is the grater number")
+"""
